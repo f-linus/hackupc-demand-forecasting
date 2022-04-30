@@ -3,3 +3,5 @@ data/mckinsey/sales.csv
 data/mckinsey/sku.csv
 data/mckinsey/test.csv
 upc_venv/
+.DS_Store
+data/.DS_Store
